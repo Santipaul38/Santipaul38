@@ -4,7 +4,7 @@
 
 **Ingeniero en Sistemas**
 
-Soy un entusiasta de la tecnología y me encanta aprender e inventar.
+Me gusta inventar soluciones para problemas reales.
 
 </div>
 
