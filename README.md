@@ -91,8 +91,8 @@ Repertorio, listas y agenda para tu banda. Una app pensada para que los músicos
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Santipaul38&show_icons=true&count_private=true&hide_border=true&locale=es&theme=tokyonight" alt="Estadísticas de GitHub de Santiago" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santipaul38&layout=compact&hide_border=true&locale=es&theme=tokyonight" alt="Lenguajes más usados" />
+<img height="165" src="https://github-readme-stats-sable-one-74.vercel.app/api?username=Santipaul38&show_icons=true&count_private=true&hide_border=true&locale=es&theme=tokyonight" alt="Estadísticas de GitHub de Santiago" />
+<img height="165" src="https://github-readme-stats-sable-one-74.vercel.app/api/top-langs/?username=Santipaul38&layout=compact&hide_border=true&locale=es&theme=tokyonight" alt="Lenguajes más usados" />
 
 </div>
 
