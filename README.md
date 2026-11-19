@@ -4,7 +4,7 @@
 
 **Ingeniero en Sistemas**
 
-Me recibí de Ingeniero en Sistemas. Soy un entusiasta de la tecnología y me encanta aprender e inventar.
+Soy un entusiasta de la tecnología y me encanta aprender e inventar.
 
 </div>
 
@@ -18,7 +18,7 @@ Me recibí de Ingeniero en Sistemas. Soy un entusiasta de la tecnología y me en
 
 ### 🎡 [Rulapp](https://github.com/Santipaul38/RulaApp)
 
-Una ruleta para sortear lo que sea: quién paga, quién lava los platos o qué peli ver. Metés los nombres, le das masa y lo que sale, sale.
+Una ruleta para sortear lo que sea: quién paga, quién lava los platos o qué peli ver. Metés los nombres, la haces girar y lo que sale, sale.
 
 - Giro con suspenso, aro con lamparitas y cartel del ganador
 - Carga de nombres de a uno o al por mayor
@@ -42,10 +42,15 @@ Repertorio, listas y agenda para tu banda. Una app pensada para que los músicos
 - Repertorio de temas de la banda
 - Armado de listas para cada fecha
 - Agenda de ensayos y shows
-- Se instala en el celular como una app (PWA)
+- Se instala en el celular como una app (PWA), hecha con Expo para web y mobile
 <!-- TODO: revisá estas funcionalidades y agregá las que falten -->
 
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-1C1C1C?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![NativeWind](https://img.shields.io/badge/NativeWind-0F172A?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 **[👉 Entrá a quinchito.vercel.app](https://quinchito.vercel.app)**
