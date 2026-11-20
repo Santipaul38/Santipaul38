@@ -16,25 +16,6 @@ Me gusta inventar soluciones para problemas reales.
 <tr>
 <td width="50%" valign="top">
 
-### 🎡 [Rulapp](https://github.com/Santipaul38/RulaApp)
-
-Una ruleta para sortear lo que sea: quién paga, quién lava los platos o qué peli ver. Metés los nombres, la haces girar y lo que sale, sale.
-
-- Giro con suspenso, aro con lamparitas y cartel del ganador
-- Carga de nombres de a uno o al por mayor
-- Importa listas y watchlists de **Letterboxd** (o su CSV)
-- Modo eliminación e historial de resultados
-- Se guarda sola en el navegador, accesible y responsive
-
-![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_4-0F172A?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-**[👉 Probala en rulapp.vercel.app](https://rulapp.vercel.app/)** · [Código](https://github.com/Santipaul38/RulaApp)
-
-</td>
-<td width="50%" valign="top">
-
 ### 🎸 [Quinchito](https://quinchito.vercel.app)
 
 Repertorio, listas y agenda para tu banda. Una app pensada para que los músicos tengan todo organizado en un mismo lugar.
@@ -56,6 +37,26 @@ Repertorio, listas y agenda para tu banda. Una app pensada para que los músicos
 **[👉 Entrá a quinchito.vercel.app](https://quinchito.vercel.app)**
 
 <sub>🔒 Código privado</sub>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎡 [Rulapp](https://github.com/Santipaul38/RulaApp)
+
+Una ruleta para sortear lo que sea: quién paga, quién lava los platos o qué peli ver. Metés los nombres, la haces girar y lo que sale, sale.
+
+- Giro con suspenso, aro con lamparitas y cartel del ganador
+- Carga de nombres de a uno o al por mayor
+- Importa listas y watchlists de **Letterboxd** (o su CSV)
+- Modo eliminación e historial de resultados
+- Se guarda sola en el navegador, accesible y responsive
+
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_4-0F172A?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**[👉 Probala en rulapp.vercel.app](https://rulapp.vercel.app/)** · [Código](https://github.com/Santipaul38/RulaApp)
 
 </td>
 </tr>
